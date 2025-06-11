@@ -8,4 +8,4 @@ Dataset files follow the same folder structure as Data folder in this Github rep
 
 ## Dependencies
 
-This repository requires MATLAB and [Napari](https://napari.org/stable/).
+This repository requires MATLAB, Verasonics Vantage software (≥4.4.0) and [Napari](https://napari.org/stable/).
